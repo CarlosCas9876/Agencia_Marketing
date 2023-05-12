@@ -1,0 +1,8 @@
+Django==4.2.1 # Versión de Django
+django-environ==0.10.0 # Proteger variables de entorno
+django-cors-headers==3.14.0 # Manejo de permisos para las url's
+djangorestframework==3.14.0
+Pillow==9.5.0 # Para el manejo de imágenes
+django-storages==1.13.2 # Para manejar el formato de las imágenes más ligeras
+django-ckeditor==6.5.1 # Crear contenido de manera rich (rica)
+psycopg2==2.9.6 # Para el manejo de bases de datos PostgreSQL
